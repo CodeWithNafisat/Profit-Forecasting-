@@ -45,10 +45,15 @@ Usage Guide & Examples
   
   . Main Forecast Plot: Interactive time series showing historical and predicted sales.
   
-  . Trend
 
-🔗 Dataset
 
-Source: U.S. Census Bureau – Monthly Retail Trade
+📊 Dataset
+  . Original Dataset: U.S. Census Bureau – Monthly Retail Trade (RSAFS)
 
-Description: Retail and Food Services Sales (RSAFS), monthly values in millions of USD.
+  Direct Download (CSV): RSAFS.csv
+  
+  Pre-trained Model: Us_Retail_Sales.pkl (included in repo).
+  
+  Notebook: Sales.ipynb (exploration, training, evaluation).
+
+  
