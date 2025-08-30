@@ -6,7 +6,7 @@ import plotly.express as ex
 
 @st.cache_resource
 def load_model():
-    return joblib.load('Us_Retail_Sales.pkl')
+    return joblib.load('RetailAndSales/Us_Retail_Sales.pkl')
 model = load_model()
 
 st.title('📈 Profit Forecasting App')
