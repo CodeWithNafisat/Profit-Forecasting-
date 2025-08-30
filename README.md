@@ -46,14 +46,10 @@ Usage Guide & Examples
   . Main Forecast Plot: Interactive time series showing historical and predicted sales.
   
 
-
 📊 Dataset
-  . Original Dataset: U.S. Census Bureau – Monthly Retail Trade (RSAFS)
 
-  Direct Download (CSV): RSAFS.csv
-  
-  Pre-trained Model: Us_Retail_Sales.pkl (included in repo).
-  
-  Notebook: Sales.ipynb (exploration, training, evaluation).
+* **Original Dataset**: [U.S. Census Bureau – Monthly Retail Trade (RSAFS)](https://fred.stlouisfed.org/series/RSAFS)
+* **Direct Download (CSV)**: [RSAFS.csv](https://fred.stlouisfed.org/graph/fredgraph.csv?id=RSAFS)
+* **Pre-trained Model**: `Us_Retail_Sales.pkl` (included in repo).
+* **Notebook**: `Sales.ipynb` (exploration, training, evaluation).
 
-  
