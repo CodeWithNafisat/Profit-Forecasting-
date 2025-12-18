@@ -87,15 +87,15 @@ I built this project to:
 ```
 Profit-Forecasting/
 │
-├── RetailAndSales/
-│   ├── app.py                      # Main Streamlit application
-│   ├── Sales.ipynb                 # Jupyter notebook for data exploration and model training
-│   ├── Us_Retail_Sales.pkl         # Pre-trained forecasting model
-│   ├── requirements.txt            # Python dependencies
-│   └── README.md                   # Project documentation
+├── requirements.txt            # Root Python dependencies
+├── README.md                   # Main project documentation
+├── LICENSE                     # MIT License
 │
-├── LICENSE                         # MIT License
-└── README.md                       # Main project documentation
+└── RetailAndSales/
+    ├── app.py                  # Main Streamlit application
+    ├── Sales.ipynb             # Jupyter notebook for data exploration and model training
+    ├── Us_Retail_Sales.pkl     # Pre-trained forecasting model
+    
 ```
 
 ## Data Source
