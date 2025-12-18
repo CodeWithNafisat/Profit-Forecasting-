@@ -34,8 +34,8 @@ I built this project to:
 1. **Get the Code**
 
    ```bash
-   git clone https://github.com/CodeWithNafisat/Profit-Forecasting.git
-   cd Profit-Forecasting/RetailAndSales
+   git clone https://github.com/CodeWithNafisat/Profit-Forecasting-.git
+   cd Profit-Forecasting-/RetailAndSales
    ```
 
 2. **Install Required Packages**
